@@ -1,0 +1,25 @@
+{
+  "name": "imitate bilibili",
+  "authors": [
+    "jijiwuming <1020293664@qq.com>"
+  ],
+  "description": "use mongodb nodejs bootstrap express and bilibili`s flash player",
+  "main": "",
+  "keywords": [
+    "bilibili"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

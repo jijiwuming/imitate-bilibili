@@ -1,0 +1,26 @@
+{
+  "name": "imitatebilibili",
+  "version": "0.0.1",
+  "description": "use mongodb nodejs bootstrap express and bilibili`s flash player",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "jade": "^1.11.0",
+    "moment": "^2.14.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8",
+    "multer": "^1.2.0",
+    "underscore": "^1.8.3",
+    "bootstrap": "^3.3.7",
+    "serve-static": "^1.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bilibili"
+  ],
+  "author": "jijiwuming <1020293664@qq.com>",
+  "license": "ISC"
+}
