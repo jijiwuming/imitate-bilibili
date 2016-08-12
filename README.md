@@ -23,6 +23,3 @@
    * ![邮件](http://www.easyicon.net/api/resizeApi.php?id=1135413&size=16)3319505109@qq.com
  
    * QQ: 3319505109
-
-</div>
-*
